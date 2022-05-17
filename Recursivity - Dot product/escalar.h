@@ -1,0 +1,1 @@
+float escalar(float vet1[], float vet2[], int t);

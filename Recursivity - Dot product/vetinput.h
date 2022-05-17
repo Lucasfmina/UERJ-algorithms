@@ -1,0 +1,1 @@
+int vetinput(char nome1[], char nome2[], float vet1[], float vet2[], int * t1, int * t2);
