@@ -1,4 +1,5 @@
 # UERJ-programs
-Programs made during my studies at UERJ.
-- in progress.
-- due to the professors' rules in order to teach us a certain subject, some programs may have unconventional methods.
+A collection of programs developed during my studies at UERJ.
+
+- In progress.
+- Please note that due to specific teaching methodologies and requirements from professors, some programs may use unconventional approaches.
