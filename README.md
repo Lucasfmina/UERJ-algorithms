@@ -1,4 +1,4 @@
-# UERJ-programs
+# UERJ-algorithms
 A collection of programs developed during my studies at UERJ.
 
 - In progress.
